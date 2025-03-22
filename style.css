@@ -1,0 +1,18 @@
+button {
+    text-size-adjust: 24px;
+    color: white;
+    background-color: rgb(94, 146, 9);
+}
+.jupiter {
+    text-align: center;
+}
+h1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4,h5 {
+    color: rgb(55, 141, 55);
+}
+a {
+    color: rgb(209, 178, 0);
+}
